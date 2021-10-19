@@ -8,7 +8,7 @@ Intended status: Informational                           19 October 2021
 Expires: 22 April 2022
 
 
-                          Schema Immutability
+                        Schema Immutability (SI)
                         draft-kgriffin-si-latest
 
 Abstract
@@ -100,7 +100,7 @@ Acknowledgments
 
 Author's Address
 
-   Kevin Griffin
+   K. Griffin
    GLEIF
 
    Email: kevin.griffin@gleif.org
