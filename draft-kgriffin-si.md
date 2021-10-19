@@ -22,9 +22,9 @@
 #
 # Delete this comment when you are done.
 #
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
-docname: draft-todo-yourname-protocol-latest
+title: "Schema Immutability"
+abbrev: "SI"
+docname: draft-kgriffin-si-latest
 category: info
 
 ipr: trust200902
@@ -38,9 +38,9 @@ pi: [toc, sortrefs, symrefs]
 
 author:
  -
-    name: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    name: Kevin Griffin
+    organization: GLEIF
+    email: kevin.griffin@gleif.org
 
 normative:
 
