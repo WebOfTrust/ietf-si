@@ -1,32 +1,32 @@
 ---
 
+title: "Schema Immutability (SI)"  
+abbrev: "SIS"  
+docname: draft-kgriffin-si-latest  
+category: info  
 
-title: "Schema Immutability"
-abbrev: "SI"
-docname: draft-kgriffin-si-latest
-category: info
+ipr: trust200902  
+area: TODO  
+workgroup: TODO Working Group  
+keyword: Internet-Draft  
 
-ipr: trust200902
-area: TODO
-workgroup: TODO Working Group
-keyword: Internet-Draft
+stand_alone: yes  
+smart_quotes: no  
+pi: [toc, sortrefs, symrefs]  
 
-stand_alone: yes
-smart_quotes: no
-pi: [toc, sortrefs, symrefs]
+author:  
+ -  
+    name: K. Griffin  
+    organization: GLEIF  
+    email: kevin.griffin@gleif.org  
 
-author:
- -
-    name: Kevin Griffin
-    organization: GLEIF
-    email: kevin.griffin@gleif.org
+normative:  
 
-normative:
+informative:  
 
-informative:
+tags: IETF, SI, SAID, ACDC
 
-
---- abstract
+--- abstract 
 
 TODO Abstract
 
